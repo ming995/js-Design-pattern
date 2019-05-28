@@ -33,4 +33,3 @@ let checkedObj = {
 let a = new CheckFormField(checkedObj);
 
 a.checkName().checkPhoneNumber();
-
